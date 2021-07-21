@@ -29,3 +29,4 @@ MySQL is used as database. Database design is made easy to understand.
 - students
 - attendance
 
+# Attendance-Management-System
